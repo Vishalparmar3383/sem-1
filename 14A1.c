@@ -2,7 +2,7 @@
 void main()
 {
 	int n,i,p=0;
-	printf("please enter the number for array:");
+	printf("please enter the size for array:");
 	scanf("%d",&n);
 	
 	int arr[n];
